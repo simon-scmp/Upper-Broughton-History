@@ -20,7 +20,7 @@ What they are looking to do here is to publish the results both as online databa
 [Link to Google Sheets file opens external site.](https://docs.google.com/spreadsheets/d/11zjqmcYhxKcK4aE7gL6R7wT0ZYlthhYtvYY5m7eTyRE/edit?usp=sharing)
 
 
-> **NB** The only bundle of photographs currently uploaded are those for **Record 032** you can click the link at record 32 in the above sheet or [Take a look here, ](https://photos.app.goo.gl/XcEALEC8tbh18hnu8) links to external site.
+**NB** The only bundle of photographs currently uploaded are those for **Record 032** you can click the link at record 32 in the above sheet or [Take a look here, ](https://photos.app.goo.gl/XcEALEC8tbh18hnu8) links to external site.
 
 
 
