@@ -1,7 +1,8 @@
 ## Welcome to Test Page for UB History Document Project
 
 
-<<<<<<< HEAD
+
+
 *September 2023*.  A project for the [Upper Broughton History Group](http://upperbroughtonhistory.org.uk) to do a feasibility study on publishing an archive of leagal documents from the 1600's to 1800's. A large metal chest containing the documents had been living in a garage for many years. When opened the documents were in exceptional condition considering their age. There has been an amount of media and academic interest in this project. 
 
 Volunteers have spent a lot of time extracting names, dates, places from the handwritten documents. Then photographing and cataloguing the bundles of documents as they came out of the chest.
@@ -13,7 +14,7 @@ What they are looking to do here is to publish the results both as online databa
 ![Note the way in which the document was cut to share so both parts had to align as proof of ownership](/images/IMG_3296-1.jpg)
 *Note the seals at the bottom of the document and the wavy line at the top where it was cut in this shape so bother parties had parts of the original and they would align showing proof of ownership.*
 
-#### Take a look at the databse file
+### Take a look at the databse file
 
 *This is an initial test copy and should be seen as such*
 
