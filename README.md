@@ -1,2 +1,2 @@
-# simon-scmp-ubhistdocs
-GH pages to test UB Document project
+# blog-test
+quick blog test site jusing Jekyll
