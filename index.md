@@ -23,5 +23,9 @@ What they are looking to do here is to publish the results both as online databa
 
 **NB** The only bundle of photographs currently uploaded are those for **Record 032** you can click the link at `record 32` in the above sheet or [Take a look here, ](https://photos.app.goo.gl/XcEALEC8tbh18hnu8) *links to external site*.
 
+---
+
+Access a *Read-Only* version of the data. [Database File](https://docs.google.com/spreadsheets/d/11zjqmcYhxKcK4aE7gL6R7wT0ZYlthhYtvYY5m7eTyRE/edit?usp=sharing) *May require you to log into a Google account. Don't do this if you are not happy using ther services!*
+
 
 
