@@ -27,7 +27,7 @@ What they are looking to do here is to publish the results both as online databa
 
 Access a *Read-Only* version of the data. [Database File](https://docs.google.com/spreadsheets/d/11zjqmcYhxKcK4aE7gL6R7wT0ZYlthhYtvYY5m7eTyRE/edit?usp=sharing) *May require you to log into a Google account. Don't do this if you are not happy using ther services!*
 
-![Screen Grab of database file](../images/Sheets_Grab.png)
+[![Screen Grab of database file](/images/Sheets_Grab.png)](https://docs.google.com/spreadsheets/d/11zjqmcYhxKcK4aE7gL6R7wT0ZYlthhYtvYY5m7eTyRE/edit?usp=sharing)
 
 
 
