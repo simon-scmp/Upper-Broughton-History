@@ -1,7 +1,9 @@
 ## Welcome to Test Page for UB History Document Project
 
 
+### Copy of UB History Site
 
+[See this link for copy of the temporarily closed UB History site](public/index.html)
 
 *September 2023*.  A project for the [Upper Broughton History Group](http://upperbroughtonhistory.org.uk) to do a feasibility study on publishing an archive of legal documents from the 1600's to 1800's. A large metal chest containing the documents had been stored in a garage for many years. When opened the documents were in exceptional condition considering their age. There has been an amount of media and academic interest in this project already. 
 
