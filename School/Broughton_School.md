@@ -1,8 +1,4 @@
----
-title: Broughton School
-body_classes: title-center title-h1h2
-menu: School
----
+[Home](https://simon-scmp.github.io/Upper-Broughton-History/)
 
 ## Broughton School 
 
