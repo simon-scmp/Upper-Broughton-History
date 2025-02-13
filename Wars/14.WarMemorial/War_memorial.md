@@ -1,4 +1,5 @@
-[Home](https://simon-scmp.github.io/Upper-Broughton-History/)
+[Home](https://simon-scmp.github.io/ubhistdocs/)
+
 
 The Upper Broughton War Memorial
 Inscriptions from WW1 and WW2

@@ -1,4 +1,5 @@
-[Home](https://simon-scmp.github.io/Upper-Broughton-History/)
+[Home](https://simon-scmp.github.io/ubhistdocs/)
+
 
 ## Wartime in Upper Broughton
 ### WW I & WW II
@@ -11,7 +12,7 @@
 #### [Home Guard](06.HomeGuard/Home_Guard.md)
 #### [Kindertransport](07.Kindertransport/Kindertransport.md)
 #### [Land Girls](09.LandGirls/LandGirls.md)
-#### [Frederick Poole](10.F_Poole/Poole.md)
+#### [Frederick Poole](10.f.Poole/Poole.md)
 #### [Prisoners of War](11.PoW/PoW.md)
 #### [Rationing](12.Rationing/rationing.md)
 #### [War Damage](13.War_Damage/War_Damage.md)
