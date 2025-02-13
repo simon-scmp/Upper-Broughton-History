@@ -14,7 +14,7 @@ body_classes: 'title-center title-h1h2'
 menu: Home
 ---
 
-![UB History Group logo](UBHistory_Group_600.png)
+![UB History Group logo](/home/UBHistory_Group_600.png)
 
 ---
 
@@ -55,9 +55,3 @@ We recived funding for a laptop from the Upper Broughton Parish Council and also
 
 
 
-
-
-
-<img width="634" alt="Doc2" src="https://github.com/user-attachments/assets/7165a23c-16cc-495a-8721-ee914848fbe5" />
-<img width="636" alt="Doc1" src="https://github.com/user-attachments/assets/ee32479e-c3ad-47f5-b172-57f65b487e23" />
-[blog.md](https://github.com/user-attachments/files/18784405/blog.md)
