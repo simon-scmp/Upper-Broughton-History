@@ -1,4 +1,4 @@
-[Home](https://simon-scmp.github.io/ubhistdocs/)
+[Home](https://simon-scmp.github.io/Upper-Broughton-History/)
 ## Walking Tour of the Village
 
 ### [Buildings](BuildingsTour.md)
