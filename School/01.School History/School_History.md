@@ -1,8 +1,4 @@
----
-title: History of School
-body_classes: title-center title-h1h2
-menu: Education
----
+[Home](https://simon-scmp.github.io/Upper-Broughton-History/)
 
 ## A retrospective glance at education in Upper Broughton
 
