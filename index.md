@@ -1,7 +1,6 @@
 ## Welcome to Upper Broughton History Group
 
-[Home](https://simon-scmp.github.io/ubhistdocs/)
-
+[Home](https://simon-scmp.github.io/Upper-Broughton-History/)
 ### Site under Re-Construction Feb 25 
 *So please bear with us…*
 
