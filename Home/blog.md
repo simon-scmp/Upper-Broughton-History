@@ -10,18 +10,18 @@ menu: Home
 
 # Welcome to the Upper Broughton History Group
 
->>	***The Upper Broughton History Group is a community project set up to research, archive and present the local history of the village and surrounding areas.***
+>The Upper Broughton History Group is a community project set up to research, archive and present the local history of the village and surrounding areas.
 
 <img src="Pi_Draw_colour_web.webp" alt="drawing" width="800"/>
 
-!!!! Cross Green and Top Green, taken from an original drawing by Mr A T Warbis in the early 1960's. Reproduced here by kind permission of his family. Recoloured. SC 
+*Cross Green and Top Green, taken from an original drawing by Mr A T Warbis in the early 1960's. Reproduced here by kind permission of his family. Recoloured. SC*
 
 
 ## The Broughton Chest - Discovered here in Upper Broughton
 
 > *We had an exciting find in the village and set up a working party to delve into the contents of an old metal trunk full of papers. We know that it came out of Broughton House in the mid 1970s and contains 250 documents, some of which are almost 400 years old. We are very pleased to hear that [Nottingham University](https://www.nottingham.ac.uk) are going to accept these records into their archive, to ensure their future preservation and access for researchers. They would not ordinarily take documents such as these, as they fall outside of their Acquistions Policy, however, as they house the Clifton Family and Estate Papers and other material of a similar nature, and it is clear that many of our documents relate to areas local to these, it would make the most sense that researchers interested in these places are able to access records in the same archive.*
 
->>>	### The Broughton Chest
+### The Broughton Chest
 
 A large metal trunk of documents has come to light, it came out of Broughton House when it was sold in the 1970s and became a private house. Broughton House had been a farm, latterly the Worthingtons had farmed there; at least one of the documents mentions the Worthingtons. Before them four generations of the Brown family had lived there. Four William Browns. One of them had a lace factory in Nottingham, others became farmers and their names feature on many of the documents. Other names that are scattered across the documents are Daykin, Gregory, Peit/Peet, Turner, Cross, Mackley, Robinson, Brett, Redfern, Wright… and many more.
 
