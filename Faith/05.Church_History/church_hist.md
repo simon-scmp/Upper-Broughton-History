@@ -1,4 +1,4 @@
-[Home](https://simon-scmp.github.io/ubhistdocs/)
+[Home](https://simon-scmp.github.io/Upper-Broughton-History/)
 
 
 ## History of St Luke's Church
