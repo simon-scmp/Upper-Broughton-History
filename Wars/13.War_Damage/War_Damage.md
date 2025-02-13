@@ -1,5 +1,4 @@
-[Home](https://simon-scmp.github.io/ubhistdocs/)
-
+[Home](https://simon-scmp.github.io/Upper-Broughton-History/)
 
 ## War Damage
 The village was unscathed, but Nottingham was badly damaged on May 8th 1941
