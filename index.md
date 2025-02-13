@@ -5,7 +5,7 @@
 *So please bear with us…*
 
 ---
-[home](Home/)
+[home](Home/blog.md)
 
 
 ## Below is information on the UB Document project.
