@@ -5,39 +5,59 @@
 *So please bear with us…*
 
 ---
-[home](Home/blog.md)
+### [home](Home/blog.md)
 
+---
+---
+title: Home
+body_classes: 'title-center title-h1h2'
+menu: Home
+---
 
-## Below is information on the UB Document project.
-
-> This archive has now been physically transfered to the Nottingham University Archives and can be accessed through them.
-> [Nottingham University Archives](https://www.nottingham.ac.uk/manuscriptsandspecialcollections/collections/allcollections/university.aspx)
-
-*September 2023*.  A project for the Upper Broughton History Group to do a feasibility study on publishing an archive of legal documents from the 1600's to 1800's. A large metal chest containing the documents had been stored in a garage for many years. When opened the documents were in exceptional condition considering their age. There has been an amount of media and academic interest in this project already. 
-
-Volunteers have spent a lot of time extracting names, dates, places from the handwritten documents. Then photographing and cataloguing the bundles of documents as they came out of the chest.
-
-![One of the larger documents](/images/IMG_3289-1.jpg)
-
-What they are looking to do here is to publish the results both as online database  along with with links to the photographs of the original handwritten documents before they are handed over to local archives. 
-
-![Note the way in which the document was cut to share so both parts had to align as proof of ownership](/images/IMG_3296-1.jpg)
-*Note the seals at the bottom of the document and the wavy line at the top where it was cut in this shape so both parties had parts of the original and they would align showing proof of ownership.*
-
-### Take a look at the database file…
-
-*This is an initial test copy and should be seen as such*
-
-[Link to 'Google Sheets' database file *opens external site*.](https://docs.google.com/spreadsheets/d/11zjqmcYhxKcK4aE7gL6R7wT0ZYlthhYtvYY5m7eTyRE/edit?usp=sharing)
-
-
-**NB** The only bundle of photographs currently uploaded are those for **Record 032** you can click the link at `record 32` in the above sheet or [Take a look here, ](https://photos.app.goo.gl/XcEALEC8tbh18hnu8) *links to external site*.
+![UB History Group logo](UBHistory_Group_600.png)
 
 ---
 
-Access a *Read-Only* version of the data. [Database File](https://docs.google.com/spreadsheets/d/11zjqmcYhxKcK4aE7gL6R7wT0ZYlthhYtvYY5m7eTyRE/edit?usp=sharing) *This links to Google Sheets*
+# Welcome to the Upper Broughton History Group
 
-[![Screen Grab of database file](/images/Sheets_Grab.png)](https://docs.google.com/spreadsheets/d/11zjqmcYhxKcK4aE7gL6R7wT0ZYlthhYtvYY5m7eTyRE/edit?usp=sharing)
+>The Upper Broughton History Group is a community project set up to research, archive and present the local history of the village and surrounding areas.
+
+<img src="Pi_Draw_colour_web.webp" alt="drawing" width="800"/>
+
+*Cross Green and Top Green, taken from an original drawing by Mr A T Warbis in the early 1960's. Reproduced here by kind permission of his family. Recoloured. SC*
+
+
+## The Broughton Chest - Discovered here in Upper Broughton
+
+> *We had an exciting find in the village and set up a working party to delve into the contents of an old metal trunk full of papers. We know that it came out of Broughton House in the mid 1970s and contains 250 documents, some of which are almost 400 years old. We are very pleased to hear that [Nottingham University](https://www.nottingham.ac.uk) are going to accept these records into their archive, to ensure their future preservation and access for researchers. They would not ordinarily take documents such as these, as they fall outside of their Acquistions Policy, however, as they house the Clifton Family and Estate Papers and other material of a similar nature, and it is clear that many of our documents relate to areas local to these, it would make the most sense that researchers interested in these places are able to access records in the same archive.*
+
+### The Broughton Chest
+
+A large metal trunk of documents has come to light, it came out of Broughton House when it was sold in the 1970s and became a private house. Broughton House had been a farm, latterly the Worthingtons had farmed there; at least one of the documents mentions the Worthingtons. Before them four generations of the Brown family had lived there. Four William Browns. One of them had a lace factory in Nottingham, others became farmers and their names feature on many of the documents. Other names that are scattered across the documents are Daykin, Gregory, Peit/Peet, Turner, Cross, Mackley, Robinson, Brett, Redfern, Wright… and many more.
+
+Most of the documents are legal documents, some of them dating back 400 years. They mainly appear to concern land transactions, but there are wills and other legal matters. A handful are in Latin, some are very large with huge red wax seals and some are easier to read than others. Only 3 of them contain a map, otherwise there are long descriptions of where the land was and who owned neighbouting plots. Land is clearly very important, houses less so. No houses are mentioned by name.
+
+What they all have in common is that they are important historical documents relating to the village… As well as being lodged at the University we are also looking at making them available on this website.
+
+[link to external![Legal Document 1](Doc1.png)](https://drive.google.com/file/d/1BgCuPgpLaJxIizVXMB41hyct79dm4saH/view?usp=sharing)
+
+Before they are despatched go to the archives, we believed it was crucial that we recorded exactly what each document was about. In January 2023 a team of volunteers worked on the documents every Tuesday afternoon in the Village Hall. We:
+
+Recorded who and what each document related to, recording such things as dates, all the names that appear, what it relates to etc. This information was input onto a PC into an Excel spreadsheet so that the information is searchable.
+Scanned or photographed every document.
+
+[Link to external document![Legal two](doc2.png)](https://drive.google.com/file/d/1qJwWfbXcz_hpzKzPiK-2013sXPf_G7NS/view?usp=sharing)
+
+We recived funding for a laptop from the Upper Broughton Parish Council and also from Tina Combellack our Borough Councillor. The Village Hall Committee kindly allowed us to use the hall at no cost. If you would like to know more about this exciting project, please contact either Rosemary on 07946 547298 or Catherine on 01664 822916
+
+[Link to external archive site](https://simon-scmp.github.io/ubhistdocs/)
 
 
 
+
+
+
+
+<img width="634" alt="Doc2" src="https://github.com/user-attachments/assets/7165a23c-16cc-495a-8721-ee914848fbe5" />
+<img width="636" alt="Doc1" src="https://github.com/user-attachments/assets/ee32479e-c3ad-47f5-b172-57f65b487e23" />
+[blog.md](https://github.com/user-attachments/files/18784405/blog.md)
