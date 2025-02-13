@@ -1,13 +1,19 @@
-## Welcome to Test Page for UB History Document Project
+## Welcome to Upper Broughton History Group
 
 
-### Copy of UB History Site December 2024
+### Site under Re-Construction Feb 25 
+*So please bear with us…*
 
-[See this link for copy of the temporarily closed UB History site](public/index.html)
+---
 
-*NB Some of the links are not working but you get the gist*
 
-*September 2023*.  A project for the [Upper Broughton History Group](http://upperbroughtonhistory.org.uk) to do a feasibility study on publishing an archive of legal documents from the 1600's to 1800's. A large metal chest containing the documents had been stored in a garage for many years. When opened the documents were in exceptional condition considering their age. There has been an amount of media and academic interest in this project already. 
+
+## Below is information on the UB Document project.
+
+> This archive has now been physically transfered to the Nottingham University Archives and can be accessed through them.
+> [Nottingham University Archives](https://www.nottingham.ac.uk/manuscriptsandspecialcollections/collections/allcollections/university.aspx)
+
+*September 2023*.  A project for the Upper Broughton History Group to do a feasibility study on publishing an archive of legal documents from the 1600's to 1800's. A large metal chest containing the documents had been stored in a garage for many years. When opened the documents were in exceptional condition considering their age. There has been an amount of media and academic interest in this project already. 
 
 Volunteers have spent a lot of time extracting names, dates, places from the handwritten documents. Then photographing and cataloguing the bundles of documents as they came out of the chest.
 
