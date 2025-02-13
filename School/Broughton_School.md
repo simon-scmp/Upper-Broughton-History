@@ -1,5 +1,7 @@
 [Home](https://simon-scmp.github.io/Upper-Broughton-History/)
 
+[School History](School_History.md)
+
 ## Broughton School 
 
 Broughton School lies on the A606 between the villages of Upper Broughton and Nether Broughton. Unusually the school served two communities which lie in different counties (Nottinghamshire and Leicestershire) and as schools were funded by their counties, this came to produce adminstrative difficulties as time went by. 
