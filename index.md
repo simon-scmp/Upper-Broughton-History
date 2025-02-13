@@ -1,13 +1,12 @@
-[Home](https://simon-scmp.github.io/ubhistdocs/)
-
 ## Welcome to Upper Broughton History Group
 
+[Home](https://simon-scmp.github.io/ubhistdocs/)
 
 ### Site under Re-Construction Feb 25 
 *So please bear with us…*
 
 ---
-## [Home](Home/blog.md) | [Events](Events/events.md) | [History](History/walking.md)
+## [home](Home/blog.md) | [Events](Events/events.md) | [History](History/walking.md)
 ## [Maps](Maps/maps.md) | [People](People/people.md) | [Farming](Farming/Early_Farming.md)
 ## [Trades](Trades/Baileys.md) | [Faith](Faith/faith.md) | [Travel](Travel/railway_accident.md)
 ## [Wars](Wars/wars.md)
