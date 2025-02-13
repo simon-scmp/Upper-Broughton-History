@@ -14,7 +14,7 @@ body_classes: 'title-center title-h1h2'
 menu: Home
 ---
 
-![UB History Group logo](/home/UBHistory_Group_600.png)
+![UB History Group logo](home/UBHistory_Group_600.png)
 
 ---
 
