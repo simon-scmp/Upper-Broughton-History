@@ -10,7 +10,7 @@ Archibald Selwyn Pryor was born in London on 7th December 1902.he did his theolo
 
 ![](Rectory.jpg)
 
-*The rectory in Upper Broughton in early C20th**
+*The rectory in Upper Broughton in early C20th*
 
 Reverend Pryor would go sledging with his children in the garden at the Rectory and also down Muxlow Hill. He was fond of riding and after taking an early service each day he would get on his horse and ride round the parish. He occasionally hunted with the Puckeridge in Hertfordshire where his family lived. At his own expense he sank a well and put up a windmill to pump clean water at High Holborn farm where the water supply was sparse and the children were always ill.
 
