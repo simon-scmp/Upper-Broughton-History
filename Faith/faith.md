@@ -1,4 +1,4 @@
-[Home](https://simon-scmp.github.io/ubhistdocs/)
+[Home](https://simon-scmp.github.io/Upper-Broughton-History/)
 
 ### Life in and around the Church and Chapel in Upper Broughton.
 
