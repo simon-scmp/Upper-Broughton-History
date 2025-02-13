@@ -1,3 +1,3 @@
 # UB History Document project test 
 
-quick test site using Jekyll for the UB History Documents project.
+UB Hitory site converted from Grav to Jekyll for the UB History community project.
