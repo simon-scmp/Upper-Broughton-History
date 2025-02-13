@@ -9,7 +9,7 @@
 
 ---
 
-![UB History Group logo](home/UBHistory_Group_600.png)
+![UB History Group logo](Home/UBHistory_Group_600.png)
 
 
 
