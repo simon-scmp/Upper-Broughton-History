@@ -1,5 +1,4 @@
-[Home](https://simon-scmp.github.io/ubhistdocs/)
-
+[Home](https://simon-scmp.github.io/Upper-Broughton-History/)
 
 ## The Home Guard
 #### Formerly known as the LDV (Local Devence Volunteers)
