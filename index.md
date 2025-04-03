@@ -5,7 +5,7 @@
 *So please bear with us…*
 
 ---
-## [Home](index.md) | [/Events](Events/events.md) | [History](/History/walking.md)
+## [Home](index.md) | [Events](/Events/events.md) | [History](/History/walking.md)
 ## [Maps](/Maps/maps.md) | [People](/People/people.md) | [Farming](/Farming/Early_Farming.md)
 ## [Trades](/Trades/Baileys.md) | [Faith](/Faith/faith.md) | [Travel](/Travel/railway_accident.md)
 ## [Wars](/Wars/wars.md) | [School](/School/School_History.md)
