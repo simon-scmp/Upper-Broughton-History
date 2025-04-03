@@ -8,7 +8,7 @@
 
 #### Thursday 1st May 2025 at 6:30pm meeting at Holy Trinity Church in Barrow.
 
-![Barrow village sign](https://simon-scmp.github.io/Upper-Broughton-History/images/Barrow_sign.jpeg.png)
+![Barrow village sign](https://simon-scmp.github.io/Upper-Broughton-History/images/BarrowSmall.jpg)
 
 **Barrow-on-Soar** is a facinating village whose name may have arisen from the usage of the locality as a burial ground as it falls along the **Great Salt Way** which passes via Barrow from Six Hills.
 For over a thousand years, Barrow has been noted for its excellent quality of lime stone which is believed to have been used by the Romans for laying pavements  in Leicester; and the building of Kirby Muxloe Castle; Ramsgate Pier and many of the tube railways beneath London.
