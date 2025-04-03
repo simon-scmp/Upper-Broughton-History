@@ -27,6 +27,7 @@
 
 ### Next event: A walk arround Barrow-upon-Soar
 > **Thursday 1st May 2025, 6:30 meet at Holy Trinity Church in Barrow**
+> ![Barrow sign](images/BarrowSign.jpg)
 [Further Details](/Events/events.md)
 
 ---
