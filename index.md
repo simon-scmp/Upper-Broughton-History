@@ -24,6 +24,10 @@
 
 *Cross Green and Top Green, taken from an original drawing by Mr A T Warbis in the early 1960's. Reproduced here by kind permission of his family. Recoloured. SC*
 
+### Next event: A walk arround Barrow-upon-Soar
+**Thursday 1st May 2025, 6:30 meet at Holy Trinity Church in Barrow**
+[Further Details](/Events/events.md)
+
 
 ## The Broughton Chest - Discovered here in Upper Broughton
 
