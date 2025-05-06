@@ -26,7 +26,7 @@
 ---
 
 ### A walk arround Barrow-upon-Soar
-Photos from the tour.
+Photos from the tour 1 May 2025.
 [Link to Google Photos Gallery](https://photos.app.goo.gl/asoQ2nK2aGNHMv9A9)
 
 <img src="/images/barrow_dino.jpg" alt="Barrow Dinosaur" width="25%" height="25%">
