@@ -31,6 +31,8 @@ Photos from the tour 1 May 2025.
 
 
 [![Barrow Dinosaur](/images/barrow_dino.jpg)](https://photos.app.goo.gl/asoQ2nK2aGNHMv9A9)
+On a glorious sunny evening we were lucky to be given a guided tour of Barrow on Soar by Kathryn Timmins and Sue Hobbs. Most of us had driven through the village many times over the years yet never discovered the Church, the old Fox Inn, Beveridge Street, Shooting Close Lane and many other gems. It is lucky to have a railway station and sits alongside the River Soar and the Grand Union Canal.'
+
 
 
 ---
