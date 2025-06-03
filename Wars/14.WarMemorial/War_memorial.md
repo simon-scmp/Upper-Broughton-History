@@ -29,16 +29,16 @@ The names below all appear on the Upper Broughton War Memorial. sadly the first 
 <p><h3>Name</h3></p>
 </td>
 <td>
-<p><b>Born</b></p>
+<p><h3>Born</h3></p>
 </td>
 <td>
-<p><b>Served</b></p>
+<p><h3>Served</h3></p>
 </td>
 <td colspan="2">
-<p><b>Died</b></p>
+<p><h3>Died</h3></p>
 </td>
 <td>
-<p><b>Further   Information</b></p>
+<p><h3>Further   Information</h3></p>
 </td>
 </tr>
 <tr>
