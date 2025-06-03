@@ -26,7 +26,7 @@ The names below all appear on the Upper Broughton War Memorial. sadly the first 
 </tr>
 <tr>
 <td>
-<p><b>Name</b></p>
+<p><h3>Name</h3></p>
 </td>
 <td>
 <p><b>Born</b></p>
