@@ -17,4 +17,5 @@
 #### [Rationing](12.Rationing/rationing.md)
 #### [War Damage](13.War_Damage/War_Damage.md)
 #### [War Memorial](14.WarMemorial/War_memorial.md)
+#### [The 8 Fallen from Upper Broughton](14.WarMemorial/War_Memorial_Names.md)
 
