@@ -8,7 +8,7 @@
 **John Edward Keys**
 Six generations of the Keys family lived in Upper Broughton starting with John Keays (born 1787) who settled here after fighting in the Peninsular War. Click on the pdf file below to read more about John Edward Keys.  
 
-[**John_Edward-Keys — PDF document**](John_Edward-Keys.pdf)
+[**John_Edward-Keys — PDF document**](https://drive.google.com/file/d/1o6RAoz2DbtVmNTS0EtAvrjuIutDw6N4w/view?usp=sharing)
 
 **William James Brooks**  
 Son of William and Julia Brooks of Corner House Farm. Click on the pdf file below to read more about William.  
