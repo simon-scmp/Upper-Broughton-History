@@ -13,17 +13,17 @@ Six generations of the Keys family lived in Upper Broughton starting with John K
 **William James Brooks**  
 Son of William and Julia Brooks of Corner House Farm. Click on the pdf file below to read more about William.  
 
-[**William James Brooks — PDF document**](William_James_Brooks.pdf)
+[**William James Brooks — PDF document**](https://drive.google.com/file/d/1U_9lXGwnbwoIaVoIb6-WrcJnHer-Uw7W/view?usp=sharing)
 
 **Sydney Tuft Payne**  
 Sydney was the son of the Station Master here in Upper Broughton and was also employed on the railways. One of the sad tasks of the Station Master was to receive the news of those killed fighting and deliver the telegram to the family, Andrew Payne took the call telling him that it was his own son who had died.  
 
-[**Sydney Tuft Payne — PDF document**](Sydney_Tuft_Payne.pdf)
+[**Sydney Tuft Payne — PDF document**](https://drive.google.com/file/d/16zkXbsnHkAKD2Sgykujbn_sMsl5BE6zm/view?usp=sharing)
 
 **Frank Ecob**   
 Frank had only been in France 17 days when he was killed on March 21st 1918. He has no known grave, but is commemorated on the memorial at Pozieres.  
 
-[**Frank Ecob — PDF document**](Frank_Ecob.pdf)
+[**Frank Ecob — PDF document**](https://drive.google.com/file/d/1HWYD9NX9ccq92g8ATv34cKf7nQ2DGXbN/view?usp=sharing)
 
 
 **Leonard Morton Brooks**   
