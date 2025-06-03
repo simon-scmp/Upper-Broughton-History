@@ -43,5 +43,6 @@ Harry was living in London as a footman to a famous actress when he enlisted. He
 
 **Francis (Frank) Charles Woolley**
 The last of the men on the war memorial to be killed. He died on 23rd October and the armistice was signed on November 11th. Frank also has the distinction of appearing on two war memorials, Upper Broughton and Cotgrave where his parents lived.  
- [**Francis Charles Woolley — PDF document**](https://drive.google.com/file/d/1aGMWHqAdX7N5TIVq47dZiqkGzICrVXz0/view?usp=sharing)
+
+[**Francis Charles Woolley — PDF document**](https://drive.google.com/file/d/1aGMWHqAdX7N5TIVq47dZiqkGzICrVXz0/view?usp=sharing)
 
