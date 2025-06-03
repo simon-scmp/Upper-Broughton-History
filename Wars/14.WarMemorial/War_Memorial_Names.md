@@ -34,14 +34,14 @@ Leonard was a skilled ploughman and during the winter of 1917 he was brought bac
 **Ralph Marson**   
 Ralph Marson was born and brought up at Greenhill Cottage on Top Green. His father was the village newsagent. Ralph also has the distinction of appearing on two war memorials: here in Upper Broughton and also in Sutton Bonington where he lived and worked as a gardener for the local doctor.  
 
-[**Ralph Marson. — PDF document**](Ralph_Marson.pdf)
+[**Ralph Marson. — PDF document**](https://drive.google.com/file/d/1KXq2NH7JcJlwWHN-x48RZXSOV9n9otYD/view?usp=sharing)
 
 **Harry Hourd**  
 Harry was living in London as a footman to a famous actress when he enlisted. He was born in Hickling and later his family moved to Well Lane in Upper Broughton. His grave is in the Five Points Cemetery in the Somme Region, an idyllic spot only accessible on foot.  
 
-[**Harry Hourd — PDF document**](Harry_Hourd.pdf)
+[**Harry Hourd — PDF document**](https://drive.google.com/file/d/11zBrsVC_smMuhUot-ONFlwR0ghXQge61/view?usp=sharing)
 
 **Francis (Frank) Charles Woolley**
 The last of the men on the war memorial to be killed. He died on 23rd October and the armistice was signed on November 11th. Frank also has the distinction of appearing on two war memorials, Upper Broughton and Cotgrave where his parents lived.  
- [**Francis Charles Woolley — PDF document**](Francis_Charles_Woolley.pdf)
+ [**Francis Charles Woolley — PDF document**](https://drive.google.com/file/d/1aGMWHqAdX7N5TIVq47dZiqkGzICrVXz0/view?usp=sharing)
 
