@@ -29,7 +29,7 @@ Frank had only been in France 17 days when he was killed on March 21st 1918. He 
 **Leonard Morton Brooks**   
 Leonard was a skilled ploughman and during the winter of 1917 he was brought back from the front to plough. Sadly he was sent back to France and became the second of William and Julia Brooks sons to be killed. Julia never recovered and died in 1920, she is buried in Upper Broughton churchyard.  
 
-[**Leonard Morton Brooks— PDF document**](Leonard_Morton_Brooks.pdf)
+[**Leonard Morton Brooks— PDF document**](https://drive.google.com/file/d/1kdRuz1G9LAfx8d4Y050Y7bxO_AOBSm7i/view?usp=sharing)
 
 **Ralph Marson**   
 Ralph Marson was born and brought up at Greenhill Cottage on Top Green. His father was the village newsagent. Ralph also has the distinction of appearing on two war memorials: here in Upper Broughton and also in Sutton Bonington where he lived and worked as a gardener for the local doctor.  
