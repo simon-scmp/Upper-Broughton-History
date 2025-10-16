@@ -33,6 +33,8 @@ Our next talk is on **Thursday January 28th, 2026**, when **Peter Liddle** is co
 
 **7pm in Upper Broughton Village Hall**
 
+![Vernemetum map](images/Vernemetum.jpg)
+
 In 55-54 BC, Julius Caesar visited Britain and established trading and treaty relationships with native Celtic tribes, including the Coritani in this area. Nearly 100 years later, the Roman army invaded the Country in the summer of 43 AD, and the long Fosse Way was built from Lindinis (Ilchester) to Lindum (Lincoln). It was one of the most major of main Roman roads. At a point one day’s steady march north of Leicester, a rest station was constructed, called Vernemetum. Some scholars favour its site as close to and north east of Willoughby on the Wolds, which, as a settlement, probably didn’t exist at the time. It lay between the regional capital, Ratae Coritanorum (Leicester), and the defended settlement of Margidunum (Castle Hill, near East Bridgford).
 With thanks to the Wolds History Group for this information.
 
