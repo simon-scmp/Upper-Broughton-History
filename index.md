@@ -25,6 +25,21 @@
 
 ---
 
+## Vernemetum
+
+Our next talk is on Thursday January 28th, 2016, when **Peter Liddle** is coming to talk about 
+**Vernemetum**
+7pm in Upper Broughton Village Hall
+
+In 55-54 BC, Julius Caesar visited Britain and established trading and treaty relationships with native Celtic tribes, including the Coritani in this area. Nearly 100 years later, the Roman army invaded the Country in the summer of 43 AD, and the long Fosse Way was built from Lindinis (Ilchester) to Lindum (Lincoln). It was one of the most major of main Roman roads. At a point one day’s steady march north of Leicester, a rest station was constructed, called Vernemetum. Some scholars favour its site as close to and north east of Willoughby on the Wolds, which, as a settlement, probably didn’t exist at the time. It lay between the regional capital, Ratae Coritanorum (Leicester), and the defended settlement of Margidunum (Castle Hill, near East Bridgford).
+With thanks to the Wolds History Group for this information.
+Peter Liddle worked for over 40 years as an excavator, survey officer, museum curator, community archaeologist and Head of the Leicestershire County archaeological team. Peter is an entertaining and knowledgeable speaker and we have enjoyed several of his lectures here in Upper Broughton. 
+ **Cost £7.50 to include a glass of wine. **
+
+---
+
+## Previous Events:
+
 ### A walk arround Barrow-upon-Soar
 Photos from the tour 1 May 2025.
 [Link to Google Photos Gallery](https://photos.app.goo.gl/asoQ2nK2aGNHMv9A9)
