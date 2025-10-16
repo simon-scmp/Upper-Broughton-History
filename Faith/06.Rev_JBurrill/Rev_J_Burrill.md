@@ -34,7 +34,7 @@ Lucinda died here in 1839 and there is a plaque in the chancel erected by her hu
 
 Reverend Joseph Burrill died in 1853. They were both buried in the chancel in Upper Broughton church. But the chancel was rebuilt in 1855. So it is not known exactly where their remains are. There is a metal plaque to Joseph and Lucinda Burrell below one of the windows on the south side of the chancel:
  
-
+![Inscription](Inscription.jpg)
  
 They outlived several of their children who were buried in Masham and do have headstones.
 Somewhere in Masham is the following:
