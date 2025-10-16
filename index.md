@@ -27,7 +27,7 @@
 
 ## Vernemetum
 
-Our next talk is on Thursday January 28th, 2016, when **Peter Liddle** is coming to talk about:
+Our next talk is on **Thursday January 28th, 2026**, when **Peter Liddle** is coming to talk about:
 
 ### Vernemetum
 
@@ -37,7 +37,9 @@ In 55-54 BC, Julius Caesar visited Britain and established trading and treaty re
 With thanks to the Wolds History Group for this information.
 
 Peter Liddle worked for over 40 years as an excavator, survey officer, museum curator, community archaeologist and Head of the Leicestershire County archaeological team. Peter is an entertaining and knowledgeable speaker and we have enjoyed several of his lectures here in Upper Broughton. 
- #### Cost £7.50 to include a glass of wine.
+
+#### Cost £7.50 to include a glass of wine.
+ 
 
 ---
 
