@@ -10,4 +10,4 @@
 #### [Rev Joseph Burrill](06.Rev_JBurrill/Rev_J_Burrill.md)
 #### [Rev Harvey Staunton](07.Rev_Staunton/Rev_Staunton.md)
 #### [Rev SelwynPrior](08.Rev_SelwynPrior/selwyn-prior.md)
-#### [Rev Charles Wildbore](09.Rev Charles Wildbore)
+#### [Rev Charles Wildbore](Charles_Wildbore.pdf)
