@@ -27,13 +27,19 @@
 
 ## Vernemetum
 
-Our next talk is on **Thursday January 28th, 2026**, when **Peter Liddle** is coming to talk about:
+Our next talk is on **Wednesday January 28th, 2026**, when **Peter Liddle** is coming to talk about:
 
 ### Vernemetum
 
 **7pm in Upper Broughton Village Hall**
 
 ![Vernemetum map](/images/Vernametum.jpg)
+
+In Roman times, between Upper Broughton and Willoughby-on-the Wolds stood the town of Vernemetum. It was one of a regularly-spaced network of towns in Roman Leicestershire.
+
+The extent of the Roman settlement is not known, but small finds of tile and building materials have been turned up around the site of the cross-road at Broughton Lodge for a number of years; unpublished excavations conducted in 1948, recovery operations during road construction in 1963 and further unpublished excavations between 1964-66 all uncovered limited finds including mid-2nd and 3rd century pottery from buildings, hearths and pits along the line of the Roman road
+
+We welcome Peter Liddle MBE - former County Archaeologist for Leicestershire – back to talk to us about the settlement.
 
 In 55-54 BC, Julius Caesar visited Britain and established trading and treaty relationships with native Celtic tribes, including the Coritani in this area. Nearly 100 years later, the Roman army invaded the Country in the summer of 43 AD, and the long Fosse Way was built from Lindinis (Ilchester) to Lindum (Lincoln). It was one of the most major of main Roman roads. At a point one day’s steady march north of Leicester, a rest station was constructed, called Vernemetum. Some scholars favour its site as close to and north east of Willoughby on the Wolds, which, as a settlement, probably didn’t exist at the time. It lay between the regional capital, Ratae Coritanorum (Leicester), and the defended settlement of Margidunum (Castle Hill, near East Bridgford).
 With thanks to the Wolds History Group for this information.
