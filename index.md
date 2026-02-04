@@ -33,8 +33,9 @@ In a first for the History Group we ran out of chairs when Peter Liddle came to 
 ![Saxon Cross](https://eonumxnti94.exactdn.com/wp-content/uploads/2025/11/LakesideArtefacts1609253785.jpg?strip=all)
 What we do know more about is the Saxon burial ground that was excavated in the 1960s when the flyover was built. The Saxons came after the Romans. Most of that burial ground is in the field that you circle as soon as you leave the A46 when travelling north and head for Upper Broughton. It’s a very innocuous piece of land. But coincidentally it is the subject of an [exhibition at the Lakeside campus of the University of Nottingham from Fri 30 Jan – Sun 12 Jul 2026](https://www.lakesidearts.org.uk/exhibition/the-anglo-saxon-cemetery-at-broughton-lodge-willoughby-on-the-wolds/). The quality of the grave goods is exceptional (like the piece above). Some of the articles are usually displayed at the University and others have been quietly sitting in a store room near Nottingham Castle, but finally after 60 years they are reunited. That’s the fascinating thing about history you start off looking at one thing (like the Romans living locally) and end up with a burial ground for 120 dead Saxons, 4 horses and a wealth of grave goods. 
 
+---
 
-Our last talk was on **Wednesday January 28th, 2026**, when **Peter Liddle** spoke about:
+## Previous Events:
 
 ### Vernemetum
 
@@ -53,12 +54,7 @@ With thanks to the Wolds History Group for this information.
 
 Peter Liddle worked for over 40 years as an excavator, survey officer, museum curator, community archaeologist and Head of the Leicestershire County archaeological team. Peter is an entertaining and knowledgeable speaker and we have enjoyed several of his lectures here in Upper Broughton. 
 
-#### Cost £7.50 to include a glass of wine.
- 
-
 ---
-
-## Previous Events:
 
 ### A walk arround Barrow-upon-Soar
 Photos from the tour 1 May 2025.
