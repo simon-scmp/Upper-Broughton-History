@@ -24,6 +24,11 @@
 *Cross Green and Top Green, taken from an original drawing by Mr A T Warbis in the early 1960's. Reproduced here by kind permission of his family. Recoloured. SC*
 
 ---
+## A Visit to the University of Nottingham to learn more about the Anglo-Saxon Cemetery at Broughton Lodge
+### [Tuesday June 30th at 10.30am](Events/events.md)
+
+
+---
 
 ## Vernemetum
 
