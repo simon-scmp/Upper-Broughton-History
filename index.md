@@ -33,7 +33,8 @@
  ) which we emailed to the University yesterday. I should warn you that if you want to print it out it will run to 50 sides of A4. All our own work.
 
  Very many thanks for all your help with this project. It was a job well done and one we can be proud of being a part of.
- ![image 1](images/IMG_7778.jpg)  ![Image 2](images/IMG_7786.jpg)
+
+  ![image 1](images/IMG_7778.jpg)  ![Image 2](images/IMG_7786.jpg)
 
  
 ---
