@@ -17,7 +17,7 @@
 
 # Welcome to the Upper Broughton History Group
 
->The Upper Broughton History Group is a community project set up to research, archive and present the local history of the village and surrounding areas.
+>The [Upper Broughton](https://maps.app.goo.gl/Km2PybxVpB7F3BC1A) History Group is a community project set up to research, archive and present the local history of the village and surrounding areas.
 
 <img src="Home/Pi_Draw_colour_web.webp" alt="drawing" width="800"/>
 
