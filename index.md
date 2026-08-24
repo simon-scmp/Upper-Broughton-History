@@ -24,6 +24,18 @@
 *Cross Green and Top Green, taken from an original drawing by Mr A T Warbis in the early 1960's. Reproduced here by kind permission of his family. Recoloured. SC*
 
 ---
+## Broughton Chest Documents.
+
+ The documents were taken to [**Nottingham University's Manuscripts and Special Collections department**](https://www.nottingham.ac.uk/manuscriptsandspecialcollections/index.aspx) on 21 July 2026. Here are three final photographs.
+ We checked through them all yesterday and packed them into boxes as the University does not have space for the trunk. Because we have indexed them they will be available immediately to anyone who wants to study them.
+
+ Several of you have asked for a [**copy of the spreadsheet** (*Google Sheets link*)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQJWU9BENNtd0V_8ob1yiLnARMb-v56g78K7vkBBx43GgOUmuR-jLwUTTpy8Wh0CKouvRowMyjwhpyl/pubhtml?gid=451156838&single=true
+ ) which we emailed to the University yesterday. I should warn you that if you want to print it out it will run to 50 sides of A4. All our own work.
+
+ Very many thanks for all your help with this project. It was a job well done and one we can be proud of being a part of.
+
+ 
+---
 ## A Visit to the University of Nottingham to learn more about the Anglo-Saxon Cemetery at Broughton Lodge
 ### [Tuesday June 30th at 10.30am](Events/events.md)
 
